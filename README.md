@@ -13,4 +13,4 @@ Web app created in bootcamp ignite to register daily transactions.
 - [x] Context API
 
 
-![Print](https://github.com/LeonardoPizzoquero/dtmoney-ignite-bootcamp/tree/main/src/assets/screenshot.png)
+![Print](https://raw.githubusercontent.com/LeonardoPizzoquero/dtmoney-ignite-bootcamp/main/src/assets/screenshot.png)
